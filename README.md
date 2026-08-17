@@ -1,4 +1,6 @@
 SIGNAL
+
+![SIGNAL Preview](https://github.com/CoderXash9/Signal/blob/271e8736859daba1857cc8e81b88b9c9d6c97c4d/Screenshot%202026-08-17%20141551.png)
 Bolo apni zabaan mein. Hum yaad rakh lenge.
 
 [Live Demo] [GitHub]
